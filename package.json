@@ -1,0 +1,11 @@
+{
+  "name": "home-project-1",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --base=/Project-group-16/",
+    "preview": "vite preview"
+  }
+}
